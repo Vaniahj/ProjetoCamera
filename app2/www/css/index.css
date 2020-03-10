@@ -51,14 +51,16 @@ h1 {
     margin:0px;
     overflow:visible;
     padding:0px;
-    text-align:center;
+    position: absolute;
+    left: 500px;
+    top: 20px;
 }
 #imgHtmlTag{
     position: relative;
     left:50%;
     top:50%;
-    height:100px;                   
-    width:100px;
+    height:350px;                   
+    width:350px;
 }
 
 .event {
